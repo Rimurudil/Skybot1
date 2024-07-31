@@ -1,2 +1,0 @@
-# Skybot1
-Skybot
